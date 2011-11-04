@@ -1,0 +1,30 @@
+{
+    "author": "Sujal Shah <sujal@variolabs.com>",
+    "name": "ddg-api",
+    "description": "A library for the DuckDuckGo APIs",
+    "tags" : ["search", "ddg", "DuckDuckGo"],
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/sujal/ddg-api.js.git"
+    },
+    "engines": {
+        "node": ">= 0.4.1"
+    },
+    "dependencies": {
+      "underscore": ">=1.2.0"
+      , "request": ">=2.1.0"
+      , "querystring": ">=0.0.1"
+    },
+    "bugs" : { 
+        "url" : "http://github.com/sujal/ddg-api.js/issues"
+    },
+    "main" : "./index.js",
+    "scripts" : {
+      "test": "node ./test/search-client-test.js"
+    },
+    "licenses" : [{
+        "type" : "MIT",
+        "url" : "http://github.com/sujal/ddg-api.js/raw/master/LICENSE"
+    }]
+}
