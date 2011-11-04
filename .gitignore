@@ -1,0 +1,6 @@
+.tmproj
+tmp
+.DS_Store
+lib-cov
+node_modules/
+testing
