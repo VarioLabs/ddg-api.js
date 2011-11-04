@@ -1,1 +1,1 @@
-module.exports = require('./lib/bing-api');
+module.exports = require('./lib/ddg-api');
