@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/VarioLabs/ddg-api.js.png)](http://travis-ci.org/VarioLabs/ddg-api.js)
 # DuckDuckGo Wrapper for Node.js
 
 A very simple wrapper for the DuckDuckGo API (http://duckduckgo.com/api.html). Just simplifies an edge case error check and presents a simple way to set & reuse options.
